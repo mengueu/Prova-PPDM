@@ -1,0 +1,16 @@
+export const CORES = {
+  primaria: '#4F46E5',
+  primariaClara: '#E0E7FF',
+  escura: '#1E1B4B',
+  fundo: '#F5F5FF',
+  card: '#FFFFFF',
+  texto: '#1F2937',
+  textoSuave: '#6B7280',
+  borda: '#E5E7EB',
+  edicao: '#F59E0B',
+  edicaoClara: '#FEF3C7',
+  sucesso: '#059669',       
+  sucessoClara: '#D1FAE5',  
+  erro: '#DC2626',          
+  erroClara: '#FEE2E2',     
+};
